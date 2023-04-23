@@ -602,7 +602,7 @@
         "type": "borderRadius"
       },
       "circle": {
-        "value": "50%",
+        "value": "999px",
         "type": "borderRadius"
       }
     },
@@ -6939,6 +6939,10 @@
       }
     },
     "space": {
+      "3xs": {
+        "value": "{dimension.3xs}",
+        "type": "spacing"
+      },
       "2xs": {
         "value": "{dimension.2xs}",
         "type": "spacing"
@@ -6981,6 +6985,10 @@
       }
     },
     "space-resp": {
+      "3xs": {
+        "value": "{dimension.3xs}",
+        "type": "spacing"
+      },
       "2xs": {
         "value": "{dimension.2xs}",
         "type": "spacing"
@@ -7040,6 +7048,20 @@
       "border-radius": {
         "value": "{border-radius.pill}",
         "type": "borderRadius"
+      },
+      "primary": {
+        "background": {
+          "color": {
+            "value": "{color.theme.primary.500}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "color": {
+            "value": "{color.content.primary.strong}",
+            "type": "color"
+          }
+        }
       }
     },
     "card": {
