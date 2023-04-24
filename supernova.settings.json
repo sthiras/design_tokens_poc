@@ -2,10 +2,25 @@
     "mode": "single-file",
     "mapping": [{
         "tokenSets": [
-          "base"
+          "base",
+          "semantic-core",
+          "semantic-action",
+          "semantic-display",
+          "semantic-input"
         ],
         "supernovaBrand": "Default",
         "supernovaTheme": null
+    }, {
+        "tokenSets": [
+          "base",
+          "semantic-core",
+          "semantic-action",
+          "semantic-display",
+          "semantic-input",
+          "dark"
+        ],
+        "supernovaBrand": "Default",
+        "supernovaTheme": "Dark"
     }],
     "settings": {
         "dryRun": false,
