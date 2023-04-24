@@ -8,8 +8,8 @@
         "supernovaTheme": null
     }],
     "settings": {
-        "dryRun": false,
-        "verbose": false,
+        "dryRun": true,
+        "verbose": true,
         "preciseCopy": false
     }
 }
