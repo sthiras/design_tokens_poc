@@ -8,7 +8,7 @@
         "supernovaTheme": null
     }],
     "settings": {
-        "dryRun": true,
+        "dryRun": false,
         "verbose": true,
         "preciseCopy": true
     }
