@@ -1,0 +1,20 @@
+{
+    "mapping": [{
+        "tokenSets": [
+          "base",
+          "semantic-core",
+          "semantic-action",
+          "semantic-display",
+          "semantic-input",
+          "semantic-input"
+        ],
+        "supernovaBrand": "Default",
+        "supernovaTheme": null
+    }, {
+        "tokenSets": [
+          "dark"
+        ],
+        "supernovaBrand": "Default",
+        "supernovaTheme": "Dark"
+    }]
+  }

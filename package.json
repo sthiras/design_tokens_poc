@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@supernovaio/supernova-sdk": "^1.8.72"
+  }
+}
