@@ -1,4 +1,5 @@
 {
+    "mode": "single-file",
     "mapping": [{
         "tokenSets": [
           "base",
@@ -16,5 +17,10 @@
         ],
         "supernovaBrand": "Default",
         "supernovaTheme": "Dark"
-    }]
-  }
+    }],
+    "settings": {
+        "dryRun": false,
+        "verbose": false,
+        "preciseCopy": false
+    }
+}
