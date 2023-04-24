@@ -1102,15 +1102,15 @@
         "type": "fontSizes"
       },
       "2xs": {
-        "value": "0.625rem",
+        "value": "1rem",
         "type": "fontSizes"
       },
       "xs": {
-        "value": "0.75rem",
+        "value": "1rem",
         "type": "fontSizes"
       },
       "sm": {
-        "value": "0.875rem",
+        "value": "1rem",
         "type": "fontSizes"
       },
       "md": {
