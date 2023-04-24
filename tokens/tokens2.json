@@ -1088,15 +1088,15 @@
         "type": "fontSizes"
       },
       "2xs": {
-        "value": "0rem",
+        "value": "1rem",
         "type": "fontSizes"
       },
       "xs": {
-        "value": "0rem",
+        "value": "1rem",
         "type": "fontSizes"
       },
       "sm": {
-        "value": "0rem",
+        "value": "1rem",
         "type": "fontSizes"
       },
       "md": {
