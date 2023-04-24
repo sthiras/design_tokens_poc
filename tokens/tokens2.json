@@ -4392,7 +4392,7 @@
         }
       }
     },
-    "size": {
+    "width": {
       "body": {
         "max-width": {
           "value": "1124px",
@@ -4861,7 +4861,7 @@
             "value": {
               "fontWeight": "{font-weight.regular}",
               "lineHeight": "{line-height.snug}",
-              "fontSize": "{font-size-rem.2xs}",
+              "fontSize": "{font-size-rem.xs}",
               "letterSpacing": "{Letter-spacing.regular}",
               "fontFamily": "{font-family.brand}"
             },
@@ -4871,7 +4871,7 @@
             "value": {
               "fontWeight": "{font-weight.medium}",
               "lineHeight": "{line-height.snug}",
-              "fontSize": "{font-size-rem.2xs}",
+              "fontSize": "{font-size-rem.xs}",
               "letterSpacing": "{Letter-spacing.regular}",
               "fontFamily": "{font-family.brand}"
             },
@@ -4881,7 +4881,7 @@
             "value": {
               "fontWeight": "{font-weight.bold}",
               "lineHeight": "{line-height.snug}",
-              "fontSize": "{font-size-rem.2xs}",
+              "fontSize": "{font-size-rem.xs}",
               "letterSpacing": "{Letter-spacing.regular}",
               "fontFamily": "{font-family.brand}"
             },
