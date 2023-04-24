@@ -13,6 +13,12 @@
         "supernovaTheme": null
     }, {
         "tokenSets": [
+          "base",
+          "semantic-core",
+          "semantic-action",
+          "semantic-display",
+          "semantic-input",
+          "semantic-input",
           "dark"
         ],
         "supernovaBrand": "Default",
